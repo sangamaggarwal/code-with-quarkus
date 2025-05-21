@@ -17,6 +17,8 @@
         <surefire-plugin.version>3.5.2</surefire-plugin.version>
     </properties>
 
+    <packaging>jar</packaging>
+
     <dependencyManagement>
         <dependencies>
             <dependency>
